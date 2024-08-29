@@ -68,6 +68,3 @@ Recommending 5 candies similar to "Nestle Crunch":
 - Kegan Edwards
 - Ninh Nguyen
 
-## Usage
-To run the project, ensure you have the necessary libraries installed (`numpy`, `pandas`, `matplotlib`, `seaborn`, `sklearn`) and execute the provided code in a Python environment.
-
